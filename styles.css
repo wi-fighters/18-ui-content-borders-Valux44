@@ -1,6 +1,38 @@
 .border-box {
-    background: #eee;
-    margin: 0 0 20px;
-    padding: 20px;
-    width: 300px;
+  background: #eee;
+  margin: 0 0 20px;
+  padding: 20px;
+  width: 300px;
+}
+
+#box-1 {
+  border: 1px solid;
+}
+
+#box-2 {
+  border: 1px dashed;
+}
+
+#box-3 {
+  border: 1px dotted;
+}
+
+#box-4 {
+  border: 3px double;
+}
+
+#box-5 {
+  border: 10px solid;
+}
+
+#box-6 {
+  border: 10px dashed;
+}
+
+#box-7 {
+  border: 10px dotted;
+}
+
+#box-8 {
+  border: 10px double;
 }
